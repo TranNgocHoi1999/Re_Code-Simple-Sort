@@ -6,8 +6,8 @@ import com.xtel.validateInput.ValidateInput;
 import com.xtel.validateInput.ValidateInteger;
 import com.xtel.array.IArray;
 /**
- *
- * @author Administrator
+ * @author Tran Ngoc Hoi 
+ * Create at : 26/12/2019
  */
 public class Main {
     public static void main(String[] args) {

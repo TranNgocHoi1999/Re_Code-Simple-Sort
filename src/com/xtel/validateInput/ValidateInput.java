@@ -4,10 +4,9 @@
 package com.xtel.validateInput;
 
 import java.util.Scanner;
-
 /**
- *
- * @author Administrator
+ * @author Tran Ngoc Hoi 
+ * Create at : 26/12/2019
  */
 public class ValidateInput implements ValidateInteger{
 
